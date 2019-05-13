@@ -27,7 +27,6 @@ body {
     min-height: 20%;
     max-width: 100%;
     background-image: url('../IMGmaket/bcg.jpg');
-    background-size: contain;
 }
 
 .logo img {
@@ -138,7 +137,6 @@ body {
 .dots {
     display: block;
     background-image: url('../IMGmaket/dot2.png');
-    background-size: contain;
     max-height: 40px;
     max-width: 120px;
     margin: 623px 656px 19px;
@@ -149,7 +147,6 @@ body {
     max-height: 40px;
     max-width: 120px;
     background-image: url('../IMGmaket/dot1.png');
-    background-size: contain;
     margin: 623px 656px 19px;
 }
 
@@ -237,7 +234,6 @@ body {
     max-width: 270px;
     max-height: 270px;
     background-image: url('../IMGmaket/pr1.jpg');
-    background-size: contain;
     min-height: 20%;
 }
 
@@ -348,13 +344,11 @@ p {
 
 .exclusive1 {
     background-image: url('../IMGmaket/pr16.jpg');
-    background-size: contain;
     float: left;
 }
 
 .exclusive2 {
     background-image: url('../IMGmaket/pr17.jpg');
-    background-size: contain;
     float: left;
 }
 
@@ -423,7 +417,6 @@ p {
 .HotDeal {
     max-height: 800px;
     background-image: url('../IMGmaket/001.jpg');
-    background-size: contain;
 }
 
 .HD {
@@ -492,7 +485,6 @@ p {
     max-height: 40px;
     max-width: 120px;
     background-image: url('../IMGmaket/dot1.png');
-    background-size: contain;
 }
 
 .chair {
@@ -506,7 +498,6 @@ p {
     max-height: 570px;
     float: left;
     background-image: url('../IMGmaket/pr5.jpg');
-    background-size: contain;
 }
 
 .ch2 {
@@ -579,28 +570,23 @@ ch2 {
 
 .block1 {
     background: url('../IMGmaket/pr6.jpg');
-    background-size: contain;
 }
 .block2 {
     background: url('../IMGmaket/pr7.jpg');
-    background-size: contain;
 }
 
 .block3 {
     background: url('../IMGmaket/pr8.jpg');
-    background-size: contain;
 }
 
 .block4 {
     background: url('../IMGmaket/pr9.jpg');
-    background-size: contain;
 }
 
 .mob {
     height: 516px;
     margin-top: 120px;
     background: url('../IMGmaket/app.jpg');
-    background-size: contain;
 }
 
 .mobil {
@@ -711,7 +697,6 @@ ch2 {
     height: 52px;
     width: 48px;
     background: #ffffff url('../IMGmaket/arrow1.jpg');
-    background-size: contain;
     outline: 1px solid #d9dee1;
     float: left;
 }
