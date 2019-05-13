@@ -26,7 +26,7 @@ body {
     height: 800px;
     min-height: 20%;
     max-width: 100%;
-    background-image: url(IMGmaket/bcg.jpg);
+    background-image: url(bcg.jpg);
     background-size: contain;
 }
 
