@@ -579,30 +579,24 @@ ch2 {
 
 .block1 {
     background: url('../IMGmaket/pr6.jpg');
-    background-size: contain;
 }
-
 .block2 {
     background: url('../IMGmaket/pr7.jpg');
-    background-size: contain;
-}
+    }
 
 .block3 {
     background: url('../IMGmaket/pr8.jpg)';
-    background-size: contain;
-}
+    }
 
 .block4 {
     background: url('../IMGmaket/pr9.jpg');
-    background-size: contain;
-}
+    }
 
 .mob {
     height: 516px;
     margin-top: 120px;
     background: url('../IMGmaket/app.jpg');
-    background-size: contain;
-}
+    }
 
 .mobil {
     width: 430px;
@@ -712,7 +706,6 @@ ch2 {
     height: 52px;
     width: 48px;
     background: #ffffff url('../IMGmaket/arrow1.jpg');
-    background-size: contain;
     outline: 1px solid #d9dee1;
     float: left;
 }
