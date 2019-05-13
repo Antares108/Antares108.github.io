@@ -17,7 +17,6 @@ body {
 .container {
     flex: 1 0 auto;
     width: 1366px;
-    min-width: 40%;
     margin: 0 auto;
     height: 100%;
 }
@@ -82,8 +81,8 @@ body {
 }
 
 .text {
-    max-width: 458px;
-    max-height: 210px;
+    width: 458px;
+    height: 210px;
     float: left;
     margin-top: 288px;
     margin-left: 98px;
@@ -118,8 +117,8 @@ body {
     display: block;
     background: #ffffff;
     box-shadow: 0px 2px 4.85px 0.15px rgba(33, 33, 33, 0.35);
-    max-width: 212px;
-    max-height: 45px;
+    width: 212px;
+    height: 45px;
     text-transform: uppercase;
     text-decoration: none;
     border-radius: 22px;
@@ -137,23 +136,23 @@ body {
 .dots {
     display: block;
     background-image: url('../IMGmaket/dot2.png');
-    max-height: 40px;
-    max-width: 120px;
+    height: 40px;
+    width: 120px;
     margin: 623px 656px 19px;
 }
 
 .dots:hover {
     display: block;
-    max-height: 40px;
-    max-width: 120px;
+    height: 40px;
+    width: 120px;
     background-image: url('../IMGmaket/dot1.png');
     margin: 623px 656px 19px;
 }
 
 .featured {
     float: left;
-    max-width: 683px;
-    max-height: 1278.5px;
+    width: 683px;
+    height: 1278.5px;
     background-color: aqua;
     background-color: #ffffff;
 }
@@ -190,8 +189,8 @@ body {
 
 .ExpAll {
     float: left;
-    max-width: 683px;
-    max-height: 1140.5px;
+    width: 683px;
+    height: 1140.5px;
     margin-left: 0;
     margin-top: 138px;
     background-color: #ffffff;
@@ -231,8 +230,8 @@ body {
 
 .products1 {
     position: relative;
-    max-width: 270px;
-    max-height: 270px;
+    width: 270px;
+    height: 270px;
     background-image: url('../IMGmaket/pr1.jpg');
     min-height: 20%;
 }
@@ -295,8 +294,8 @@ body {
 .products2,
 .products4 {
     border-style: none;
-    max-width: 270px;
-    max-height: 270px;
+    width: 270px;
+    height: 270px;
     float: right;
     margin-right: 15px;
     margin-left: 30px;
@@ -355,7 +354,7 @@ p {
 .exclus1 a,
 .exclus2 a {
     display: block;
-    max-width: 212px;
+    width: 212px;
     height: 45px;
     border-radius: 22px;
     background-color: #ffffff;
@@ -375,7 +374,7 @@ p {
     }
 
 .trendingP {
-    max-height: 1108px;
+    height: 1108px;
 }
 
 .trendingP h3 {
@@ -393,7 +392,7 @@ p {
 
 
 .catalog {
-    max-height: 771px;
+    height: 771px;
     float: left;
     margin-top: 62px;
     margin-left: 98px;
@@ -415,12 +414,12 @@ p {
 }
 
 .HotDeal {
-    max-height: 800px;
+    height: 800px;
     background-image: url('../IMGmaket/001.jpg');
 }
 
 .HD {
-    max-width: 468px;
+    width: 468px;
     margin-top: 286px;
     margin-left: 98px;
     float: left;
@@ -454,8 +453,8 @@ p {
 
 .HD a {
     display: block;
-    max-width: 212px;
-    max-height: 45px;
+    width: 212px;
+    height: 45px;
     border-radius: 22px;
     background-color: #ffffff;
     text-decoration: none;
@@ -482,32 +481,32 @@ p {
 
 .HotDeal .dots:hover {
     display: block;
-    max-height: 40px;
-    max-width: 120px;
+    height: 40px;
+    width: 120px;
     background-image: url('../IMGmaket/dot1.png');
 }
 
 .chair {
-    max-height: 800px;
+    height: 800px;
     margin-top: 120px;
     margin-left: 90px;
 }
 
 .ch1 {
-    max-width: 570px;
-    max-height: 570px;
+    width: 570px;
+    height: 570px;
     float: left;
     background-image: url('../IMGmaket/pr5.jpg');
 }
 
 .ch2 {
-    max-width: 698px;
-    max-height: 570px;
+    width: 698px;
+    height: 570px;
     float: right;
 }
 
 .CR {
-    max-width: 336px;
+    width: 336px;
     margin-left: 31px;
     margin-top: 186px;
 }
@@ -562,8 +561,8 @@ ch2 {
 .block2,
 .block3,
 .block4 {
-    max-width: 270px;
-    max-height: 270px;
+    width: 270px;
+    height: 270px;
     float: left;
     margin: 0 15px 30px;
 }
