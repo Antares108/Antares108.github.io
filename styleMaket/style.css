@@ -132,12 +132,12 @@ body {
 }
 
 .text a:hover {
-    background: #ffffff url(../IMGmaket/arrow.png) no-repeat 173px 16px;
+    background: #ffffff url('../IMGmaket/arrow.png') no-repeat 173px 16px;
 }
 
 .dots {
     display: block;
-    background-image: url(../IMGmaket/dot2.png);
+    background-image: url('../IMGmaket/dot2.png');
     background-size: contain;
     max-height: 40px;
     max-width: 120px;
@@ -148,7 +148,7 @@ body {
     display: block;
     max-height: 40px;
     max-width: 120px;
-    background-image: url(../IMGmaket/dot1.png);
+    background-image: url('../IMGmaket/dot1.png');
     background-size: contain;
     margin: 623px 656px 19px;
 }
@@ -236,7 +236,7 @@ body {
     position: relative;
     max-width: 270px;
     max-height: 270px;
-    background-image: url(../IMGmaket/pr1.jpg);
+    background-image: url('../IMGmaket/pr1.jpg');
     background-size: contain;
     min-height: 20%;
 }
@@ -267,7 +267,7 @@ body {
     text-align: center;
     line-height: 45px;
     margin: 62px 111px 0;
-    background: #ffffff url(../IMGmaket/arrow.png) no-repeat 173px 15px;
+    background: #ffffff url('../IMGmaket/arrow.png') no-repeat 173px 15px;
 
 }
 
@@ -347,13 +347,13 @@ p {
 }
 
 .exclusive1 {
-    background-image: url(../IMGmaket/pr16.jpg);
+    background-image: url('../IMGmaket/pr16.jpg');
     background-size: contain;
     float: left;
 }
 
 .exclusive2 {
-    background-image: url(../IMGmaket/pr17.jpg);
+    background-image: url('../IMGmaket/pr17.jpg');
     background-size: contain;
     float: left;
 }
@@ -377,7 +377,7 @@ p {
 
 .exclus1 a:hover,
 .exclus2 a:hover {
-    background: #ffffff url(../IMGmaket/arrow.png) no-repeat 173px 15px;
+    background: #ffffff url('../IMGmaket/arrow.png') no-repeat 173px 15px;
     }
 
 .trendingP {
@@ -422,7 +422,7 @@ p {
 
 .HotDeal {
     max-height: 800px;
-    background-image: url(../IMGmaket/001.jpg);
+    background-image: url('../IMGmaket/001.jpg');
     background-size: contain;
 }
 
@@ -476,12 +476,12 @@ p {
 }
 
 .HD a:hover {
-    background: #ffffff url(../IMGmaket/arrow.png) no-repeat 173px 15px;
+    background: #ffffff url('../IMGmaket/arrow.png') no-repeat 173px 15px;
     }
 
 .HotDeal .dots {
     display: block;
-    background-image: url(../IMGmaket/dot2.png);
+    background-image: url('../IMGmaket/dot2.png');
     height: 40px;
     width: 120px;
     margin: 740px 623px 20px;
@@ -491,7 +491,7 @@ p {
     display: block;
     max-height: 40px;
     max-width: 120px;
-    background-image: url(../IMGmaket/dot1.png);
+    background-image: url('../IMGmaket/dot1.png');
     background-size: contain;
 }
 
@@ -505,7 +505,7 @@ p {
     width: 570px;
     height: 570px;
     float: left;
-    background-image: url(../IMGmaket/pr5.jpg);
+    background-image: url('../IMGmaket/pr5.jpg');
     background-size: contain;
 }
 
@@ -560,7 +560,7 @@ p {
 }
 
 .CR a:hover {
-    background: #ffffff url(../IMGmaket/arrow.png) no-repeat 173px 15px;
+    background: #ffffff url('../IMGmaket/arrow.png') no-repeat 173px 15px;
 }
 
 ch2 {
@@ -578,29 +578,29 @@ ch2 {
 }
 
 .block1 {
-    background: url(../IMGmaket/pr6.jpg);
+    background: url('../IMGmaket/pr6.jpg');
     background-size: contain;
 }
 
 .block2 {
-    background: url(../IMGmaket/pr7.jpg);
+    background: url('../IMGmaket/pr7.jpg');
     background-size: contain;
 }
 
 .block3 {
-    background: url(../IMGmaket/pr8.jpg);
+    background: url('../IMGmaket/pr8.jpg)';
     background-size: contain;
 }
 
 .block4 {
-    background: url(../IMGmaket/pr9.jpg);
+    background: url('../IMGmaket/pr9.jpg');
     background-size: contain;
 }
 
 .mob {
     height: 516px;
     margin-top: 120px;
-    background: url(../IMGmaket/app.jpg);
+    background: url('../IMGmaket/app.jpg');
     background-size: contain;
 }
 
@@ -711,7 +711,7 @@ ch2 {
 .form input[type="submit"] {
     height: 52px;
     width: 48px;
-    background: #ffffff url(../IMGmaket/arrow1.jpg);
+    background: #ffffff url('../IMGmaket/arrow1.jpg');
     background-size: contain;
     outline: 1px solid #d9dee1;
     float: left;
