@@ -585,17 +585,20 @@ ch2 {
 }
 
 .block3 {
-    background: url('../IMGmaket/pr8.jpg)';
+    background: url(../IMGmaket/pr8.jpg);
+    background-size: contain;
 }
 
 .block4 {
-    background: url('../IMGmaket/pr9.jpg');
+    background: url(../IMGmaket/pr9.jpg);
+    background-size: contain;
 }
 
 .mob {
     height: 516px;
     margin-top: 120px;
-    background: url('../IMGmaket/app.jpg');
+    background: url(../IMGmaket/app.jpg);
+    background-size: contain;
 }
 
 .mobil {
@@ -705,7 +708,8 @@ ch2 {
 .form input[type="submit"] {
     height: 52px;
     width: 48px;
-    background: #ffffff url('../IMGmaket/arrow1.jpg');
+    background: #ffffff url(../IMGmaket/arrow1.jpg);
+    background-size: contain;
     outline: 1px solid #d9dee1;
     float: left;
 }
