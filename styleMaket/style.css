@@ -26,7 +26,7 @@ body {
     height: 800px;
     min-height: 20%;
     max-width: 100%;
-    background-image: url(../IMGmaket/bcg.jpg);
+    background-image: url(IMGmaket/bcg.jpg);
     background-size: contain;
 }
 
@@ -378,8 +378,7 @@ p {
 .exclus1 a:hover,
 .exclus2 a:hover {
     background: #ffffff url('IMGmaket/arrow.png') no-repeat 173px 15px;
-    background-size: contain;
-}
+    }
 
 .trendingP {
     max-height: 1108px;
@@ -478,8 +477,7 @@ p {
 
 .HD a:hover {
     background: #ffffff url(IMGmaket/arrow.png) no-repeat 173px 15px;
-    background-size: contain;
-}
+    }
 
 .HotDeal .dots {
     display: block;
